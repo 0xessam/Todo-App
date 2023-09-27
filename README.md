@@ -26,3 +26,6 @@ a console application that allows users to manage their tasks/to-do lists. Users
 6. **Mark Task as Completed**: Use options 6 to mark tasks as completed.
 7. **Quit**: Option 7 allows you to exit the application.
 
+## Screenshots
+
+![App Screenshot](https://snipboard.io/F8qEIX.jpg)
