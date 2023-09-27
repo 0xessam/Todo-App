@@ -1,8 +1,7 @@
 
 # Todo App
 
-a console application that allows users to manage their tasks/to-do lists. Users should be able to add, edit and delete tasks.
-
+a console application that allows users to manage their tasks/to-do lists. Users should be able to add , show , management and delete tasks .
 ## Features
 
 - **Add Tasks**: Add new tasks with a name and description to your to-do list.
