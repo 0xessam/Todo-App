@@ -1,4 +1,5 @@
 using namespace std;
+#include "dateformat.h"
 #ifndef TODOAPP_TASK_H
 #define TODOAPP_TASK_H
 class Task {
@@ -10,9 +11,10 @@ private:
 public:
     Task() {
         cout << "Enter the todo name \n" ;
-        cin >> name ;
+        cin.ignore() ;
+        getline(cin,name) ;
         cout << "Enter the todo description \n" ;
-        cin >> description ;
+        getline(cin,description) ;
         cout << "Enter the date (dd/mm/yy) \n" ;
         cin >> date ;
     }
