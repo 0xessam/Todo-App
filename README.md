@@ -18,9 +18,9 @@ a console application that allows users to manage their tasks/to-do lists. Users
 
 2. **Show Tasks**: Choose option 2 to see a list of all your tasks.
 
-3. **Show completed tasks**: Choose option 3 to see a list of all your tasks.
+3. **Show completed tasks**: Choose option 3 to see the completed tasks.
 
-4. **Show incompleted tasks**: Choose option 4 to see a list of all your tasks.
+4. **Show incompleted tasks**: Choose option 4 to see the incompleted tasks.
 
 5. **Delete a Task**: Select option 5 to delete a task from your to-do list.
 6. **Mark Task as Completed**: Use options 6 to mark tasks as completed.
