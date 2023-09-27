@@ -35,7 +35,7 @@ int main() {
         cout << "4 : show incompleted tasks .\n " ;
         cout << "5 : delete task .\n " ;
         cout << "6 : mark task as completed .\n " ;
-        cout << "6 : End the program .\n " ;
+        cout << "7 : End the program .\n " ;
         cout << "Enter your choice: \n" ;
         cin >> choice ;
         User &currentUser = Users[username] ; //
